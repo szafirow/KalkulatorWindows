@@ -1,0 +1,10 @@
+C:\Users\patryk\source\repos\KalkulatorWindows\KalkulatorWindows\bin\Debug\KalkulatorWindows.exe.config
+C:\Users\patryk\source\repos\KalkulatorWindows\KalkulatorWindows\bin\Debug\KalkulatorWindows.exe
+C:\Users\patryk\source\repos\KalkulatorWindows\KalkulatorWindows\bin\Debug\KalkulatorWindows.pdb
+C:\Users\patryk\source\repos\KalkulatorWindows\KalkulatorWindows\obj\Debug\KalkulatorWindows.csprojResolveAssemblyReference.cache
+C:\Users\patryk\source\repos\KalkulatorWindows\KalkulatorWindows\obj\Debug\KalkulatorWindows.Form1.resources
+C:\Users\patryk\source\repos\KalkulatorWindows\KalkulatorWindows\obj\Debug\KalkulatorWindows.Properties.Resources.resources
+C:\Users\patryk\source\repos\KalkulatorWindows\KalkulatorWindows\obj\Debug\KalkulatorWindows.csproj.GenerateResource.Cache
+C:\Users\patryk\source\repos\KalkulatorWindows\KalkulatorWindows\obj\Debug\KalkulatorWindows.csproj.CoreCompileInputs.cache
+C:\Users\patryk\source\repos\KalkulatorWindows\KalkulatorWindows\obj\Debug\KalkulatorWindows.exe
+C:\Users\patryk\source\repos\KalkulatorWindows\KalkulatorWindows\obj\Debug\KalkulatorWindows.pdb
