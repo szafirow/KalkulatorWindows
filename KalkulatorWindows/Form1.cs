@@ -35,7 +35,15 @@ namespace KalkulatorWindows
             {
                 if (!result.Text.Contains(","))
                 {
-                    result.Text = result.Text + "0" + b.Text;
+
+                    if (result.Text != null && !string.IsNullOrWhiteSpace(result.Text))
+                    {
+                         result.Text = result.Text + b.Text;
+                    }
+                    else
+                    {
+                       result.Text = result.Text + "0" + b.Text;
+                    }
                 }
             }
             else
@@ -170,6 +178,11 @@ namespace KalkulatorWindows
                 default:
                     break;
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
